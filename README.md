@@ -1,6 +1,8 @@
 # animeapp
 
-A new Flutter project.
+This app is made for the assignment given by Ghackk Technologies.
+This app meets all the requirements given in the assignment.
+This app fetches data from an API so internet will be required for the app.
 
 ## Getting Started
 
